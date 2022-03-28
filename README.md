@@ -1,8 +1,6 @@
 ### DATA VISUALIZATION
 
-
-
-<h4> THESE ARE THE FOLLOWING DATASETS THAT HAS BEEN RESEARCHED </h4>
+<h4> THESE ARE THE FOLLOWING DATA THAT HAS BEEN RESEARCHED </h4>
 <ul>
   <li> <b>covid-variants datasets </b>
   <br>
@@ -12,6 +10,17 @@
    <br>
      <img src="assets/militer-img.jpg" height=500px >
   </li>
+  <li><b> Hunger Games Novel </b> </li>
+  <br>
+  
+  | Images        | Name           | 
+  | ------------- |:-------------:|
+  |  <img src="assets/Peeta.png" width = 50px>    | Peeta | 
+  | <img src="assets/Jenniffer.png" alt="Jenniffer" width = 50px>    | Jenniffer     |  
+  |  <img src="assets/HungerGames.png" alt="HungerGames" width = 50px> | Hunger Games      |   
+   
+    
+   
   </ul>
 
 ### PROGRAMMING LANGUAGE AND TOOLS:
