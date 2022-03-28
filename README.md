@@ -2,10 +2,16 @@
 
 
 
-<h2> DATASETS THAT HAS BEEN RESEARCHED </h2>
+<h4> THESE ARE THE FOLLOWING DATASETS THAT HAS BEEN RESEARCHED </h4>
 <ul>
-  <li> Research about covid-variants datasets</li>
-  <li>Research about Military Expenditure datasets</li>
+  <li> <b>covid-variants datasets </b>
+  <br>
+    <img src="assets/covid-img.jpg" width=1000px>
+  </li>
+  <li><b>Military Expenditure datasets</b>
+   <br>
+     <img src="assets/militer-img.jpg" width=1000px height=500px>
+  </li>
   </ul>
 
 ### PROGRAMMING LANGUAGE AND TOOLS:
