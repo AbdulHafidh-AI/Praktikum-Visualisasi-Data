@@ -10,7 +10,7 @@
   </li>
   <li><b>Military Expenditure datasets</b>
    <br>
-     <img src="assets/militer-img.jpg" width=1000px height=500px>
+     <img src="assets/militer-img.jpg" height=500px >
   </li>
   </ul>
 
